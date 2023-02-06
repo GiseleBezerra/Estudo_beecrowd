@@ -1,1 +1,1 @@
-# Estudo_beecrowd
+Exercícios do Beecrowd para estudos.
